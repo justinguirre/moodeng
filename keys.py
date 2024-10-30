@@ -1,1 +1,0 @@
-discord_key = "MTMwMTEwNDEwMjc1MDU1NjIxMA.G4WsCN.wNyNM0u8akNzonflZ2secrNc7JE8hAKhByX-qc"
